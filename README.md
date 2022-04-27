@@ -2,11 +2,14 @@
 
 # Spotify SoundSource
 
-My top showcase of my work would be an application that I was a top contibutor and team lead in within my University which utilized Spotify’s API’s. The idea behind the application was crowdsourcing playlists through user suggestions and upvotes in order to create popular playlists by the people for the people. Coming up with the idea and taking on the role as team lead was challenging and rewarding. Our application used React on the frontend, Springboot in the backend and was deployed using Amazon Web Services. I really enjoyed working with my team and utilising wireframes and trello in order to stay organized and tackle any problems that came up. I also enjoyed being the team lead is it allowed me to code on both the frontend and backend. In the front end I was able to configure css, html, and set up requests to the server in order to properly portray and record information. I utilized the React framework to set up functions on time intervals that utilized axios and hooks to fetch and update components on a real time basis. In the backend I was able to help set up a relational database and REST controllers so that their was seamless communication between the client and the server side. Being able to think of features and then find and learn how to implement various technologies was a great feeling. I am incredibly proud of our final product and happy our team was able to secure a perfect score on the grading of the application. 
+My top showcase of my work would be an application that I was a top contibutor and team lead in within my University which utilized Spotify’s API. The idea behind the application was crowdsourcing playlists through user suggestions and upvotes in order to create popular playlists by the people for the people. Coming up with the idea and taking on the role as team lead was challenging and rewarding. Our application used React on the frontend, Springboot in the backend and was deployed using Amazon Web Services. I really enjoyed working with my team and utilising wireframes and trello in order to stay organized and tackle any problems that came up. I also enjoyed being the team lead as it allowed me to code on both the frontend and backend. In the front end I was able to configure css, html, and set up requests to the server in order to properly portray and record information. I utilized the React framework to set up functions on time intervals that utilized axios and hooks to fetch and update components on a real time basis. In the backend I was able to help set up a relational database and REST controllers so that there was seamless communication between the client and the server side. Being able to think of features and then find and learn how to implement various technologies was a great feeling. I am incredibly proud of our final product and happy our team was able to secure a perfect score on the grading of the application. 
 
 # Personal Portfolio
 
-Building my personal portfolio allowed me to build an application using VanillaJS and really have fun with the CSS and create something that stood out and showcased my work. I currently have screenshots of the Spotify SoundSource application and its features as well as some more information about my self. I hope to continue to add to the page and its a great way to track my progress and to push me to continue creating applications. 
+Building my personal portfolio allowed me to build an application using VanillaJS and really have fun with the CSS and create something that stood out and showcased my work. I currently have screenshots of the Spotify SoundSource application and its features as well as some more information about my self. I hope to continue to add to the page and it's a great way to track my progress and to push me to continue creating applications. 
+
+Portfolio Link:
+https://benizrailov.github.io/portfolio/ 
 
 # Inspiration
 
@@ -20,7 +23,7 @@ source: https://superset.apache.org/
 
 # Appsmith:
 
-As someone who has a passion for front end programming I love seeing applications that make building applications more seamless. Seeing a tool that allows users to build frameworks visually and is easily integratible with REST API’s and databases is really interesting. Also the fact it is easily manipulated by javascript and VanillaJS is great as it lowers the learning curve when getting started. I love seeing innovation in any way possible and Appsmith is making huge strides in the little time that the technology has been available. 
+As someone who has a passion for front end programming I love seeing applications that make building applications more seamless. Seeing a tool that allows users to build frameworks visually and is easily integratible with REST API’s and databases is really interesting. Also the fact it is easily manipulated by javascript and VanillaJS is great as it lowers the learning curve for programmers when getting started. I love seeing innovation in any way possible and Appsmith is making huge strides in the little time that the technology has been available. 
 
 source: https://www.appsmith.com/ 
 
@@ -38,4 +41,6 @@ Given the opportunity to build/learn anything I wanted, I would really want to f
 
 Sandbox Link:
 https://codesandbox.io/s/2022-internship-exercise-menu-forked-3eny1d?file=/src/styles.css
+
+
 
