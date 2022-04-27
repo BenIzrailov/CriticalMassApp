@@ -52,7 +52,9 @@ Given the opportunity to build/learn anything I wanted, I would really want to f
 
 
 Sandbox Link:
-https://codesandbox.io/s/2022-internship-exercise-menu-forked-3eny1d?file=/index.html
+https://codesandbox.io/s/2022-internship-exercise-menu-forked-3eny1d?file=/src/index.js
+
+*If for some reason the menu items do not render in sandbox hit space anywhere and it appears, I have no idea why it works like this* 
 
 Menu Snap:
 ![Screenshot](menusnap.png)
