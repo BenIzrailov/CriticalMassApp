@@ -1,0 +1,119 @@
+:root{
+  --clr-light: #fff;
+  --clr-dark: #303030;
+}
+
+body {
+  font-family: Optima, sans-serif;
+  --ff-primary: Optima, sans-serif;
+  width: 800px;
+  background-color: bisque;
+  background-image: url(../assets/menubackground.jpg);
+  background-blend-mode: multiply;
+  background-size: cover;
+  color: var(--clr-light);
+  margin:auto;
+}
+
+.background-tint {
+  background-color: rgba(148, 133, 117, 0.5); /* Tint color */
+  background-blend-mode: multiply;
+}
+
+ul span{
+  background-color: white;
+}
+
+.spicy{
+  color: #000000;
+  font-size: 2ch;
+  font-weight: bolder;
+}
+
+.spicy:before {
+  width: 16px;
+  height: 16px;
+  content: "";
+  background-image: url("../assets/spicy.svg");
+  background-repeat: no-repeat;
+  display: inline-block;
+  padding-right: 3px;
+  position: relative;
+  top: 2px;
+}
+
+.spicy_menu::after {
+  width: 16px;
+  height: 16px;
+  content: "";
+  background-image: url("../assets/spicy.svg");
+  background-repeat: no-repeat;
+  display: inline-block;
+  padding-right: 3px;
+  position: relative;
+  top: 2px;
+}
+
+.background-tint {
+  background-color: rgba(255, 255, 255, 0.5); /* Tint color */
+  background-blend-mode: multiply;
+}
+
+h1,
+h2 {
+  text-align: center;
+  width: 100%;
+  font-family: Snell Roundhand, cursive;
+}
+
+h1{
+  font-size: 10ch;
+  background-color: #7f4316;
+  border: 15px outset #8b450f;
+}
+
+h2 {
+  color: white;
+  font-size: 4ch;
+}
+
+p{
+  font-size: 2ch;
+  font-weight: bolder;
+}
+
+.pasta h2{
+  color: red;
+}
+
+section {
+  padding: 1em 1em;
+}
+
+.starters {
+  background: green;
+  border: 5px solid #000000;
+  width: 100%;
+  text-align: center;
+}
+
+.pasta {
+  background: white;
+  border: 5px solid #000000;
+  width: 100%;
+}
+
+.pizza {
+  background: red;
+  border: 5px solid #000000;
+  width: 100%;
+}
+
+.price{
+  float: right;
+}
+
+ul{
+  list-style:none;
+  text-align: center;
+}
