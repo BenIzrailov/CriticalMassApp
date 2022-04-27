@@ -1,6 +1,12 @@
 # Critical Mass Coding Challenge
 
+
+
+
+
 # Work / Project Examples
+
+
 
 # Spotify SoundSource
 
@@ -14,6 +20,8 @@ Portfolio Link:
 https://benizrailov.github.io/portfolio/ 
 
 # Inspiration
+
+
 
 I love open source projects and the idea behind them. I find that a synergetic approach to coding and technology is many times the best way to quickly tackle a problem. Some open source projects that recently caught my eye include:
 
@@ -37,12 +45,14 @@ source: https://classic.yarnpkg.com/en/
 
 # Focus 
 
+
 Given the opportunity to build/learn anything I wanted, I would really want to focus on technologies and industries that are at the forefront of innovation and creativity. Being able to completely tailor something to a target audience and receive a positive response has been what drives me as a software engineer. Looking through Critical Mass’s portfolio it’s really cool to see projects like the Immersive e-Commerce site for Blizzard and Adidas Digital Product Customization which redefine and improve the user experience. Working on captivating products that are meant to enhance and transport it’s users are exactly what inspire me as a coder. It is my goal to make a project that sets out to go above and beyond in effectively carrying out a vision and communicating to an audience in a way that speaks to them. Learning the tools and technologies behind these projects and applying it to a project of my own would be a dream come true. 
 
 # Coding Assessment 
 
+
 Sandbox Link:
-https://codesandbox.io/s/2022-internship-exercise-menu-forked-3eny1d?file=/src/styles.css
+https://codesandbox.io/s/2022-internship-exercise-menu-forked-3eny1d?file=/index.html
 
 Menu Snap:
 ![Screenshot](menusnap.png)
