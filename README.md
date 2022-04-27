@@ -42,5 +42,6 @@ Given the opportunity to build/learn anything I wanted, I would really want to f
 Sandbox Link:
 https://codesandbox.io/s/2022-internship-exercise-menu-forked-3eny1d?file=/src/styles.css
 
-
+Menu Snap:
+![Screenshot](menusnap.png)
 
